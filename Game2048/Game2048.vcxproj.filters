@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Shapes">
+      <UniqueIdentifier>{2eae6c00-41c7-4422-8dd2-cefcc33744f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Shapes">
+      <UniqueIdentifier>{8740aafe-3fec-45d2-8a45-e06bf971f0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\UI">
+      <UniqueIdentifier>{bd08d2e3-3fe1-4075-bb67-880396baccdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\UI">
+      <UniqueIdentifier>{ee48abb2-4e7d-41e5-b1a6-5501fe61fa8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Constants">
+      <UniqueIdentifier>{405d5e68-3c18-4684-904e-6f50fed96e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Field">
+      <UniqueIdentifier>{69ecb5ab-10bd-451e-8734-e7e37dbb1426}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Field">
+      <UniqueIdentifier>{6069071e-3f95-4895-8981-f68762617ca3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game2048.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="RoundedSquare.cpp">
+      <Filter>Исходные файлы\Shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenu.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="EndMenu.cpp">
+      <Filter>Исходные файлы\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="RectField.cpp">
+      <Filter>Исходные файлы\Field</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCell.cpp">
+      <Filter>Исходные файлы\Field</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="RoundedSquare.h">
+      <Filter>Файлы заголовков\Shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenu.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuCallable.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="PrettySet.h">
+      <Filter>Файлы заголовков\Constants</Filter>
+    </ClInclude>
+    <ClInclude Include="Colors.h">
+      <Filter>Файлы заголовков\Constants</Filter>
+    </ClInclude>
+    <ClInclude Include="Enums.h">
+      <Filter>Файлы заголовков\Constants</Filter>
+    </ClInclude>
+    <ClInclude Include="RectField.h">
+      <Filter>Файлы заголовков\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCell.h">
+      <Filter>Файлы заголовков\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="EndMenu.h">
+      <Filter>Файлы заголовков\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicValues.h">
+      <Filter>Файлы заголовков\Constants</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="assets\game1-Sketchbook-2024-10-30.ogg">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="assets\game2-Sketchbook-2024-08-01.ogg">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="assets\menu1-Sketchbook-2024-08-21.ogg">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="assets\menu2-horror-Sketchbook-2024-08-13.ogg">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="assets\tuturu.ogg">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\RubikMonoOne-Regular.ttf">
+      <Filter>Файлы ресурсов</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\SpaceBackground1.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\UI.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
