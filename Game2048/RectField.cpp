@@ -50,6 +50,8 @@ void RectField::getMaxResult() {
 }
 
 void RectField::saveIfMaximumResult() {
+	bool res = std::filesystem::create_directory(SCORE_RESULT_FOLDER);
+
 	std::fstream file;
 	try {
 		if (!std::filesystem::exists(SCORE_RESULT_PATH)) {

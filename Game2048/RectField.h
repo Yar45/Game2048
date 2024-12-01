@@ -8,6 +8,7 @@
 #include "GameCell.h"
 #include "RoundedSquare.h"
 
+#define SCORE_RESULT_FOLDER "data"
 #define SCORE_RESULT_PATH "data/result.bin"
 
 class RectField : public sf::Drawable, public sf::Transformable
