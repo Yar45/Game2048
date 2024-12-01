@@ -142,6 +142,7 @@
     <ClCompile Include="Game2048.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameCell.cpp" />
+    <ClCompile Include="MenuCallable.cpp" />
     <ClCompile Include="StartMenu.cpp" />
     <ClCompile Include="Options.cpp" />
     <ClCompile Include="RectField.cpp" />
@@ -172,7 +173,6 @@
     <None Include="assets\menu1-Sketchbook-2024-08-21.ogg" />
     <None Include="assets\menu2-horror-Sketchbook-2024-08-13.ogg" />
     <None Include="assets\tuturu.ogg" />
-    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="assets\RubikMonoOne-Regular.ttf" />
