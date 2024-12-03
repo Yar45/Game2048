@@ -63,5 +63,3 @@ void EndMenu::draw(sf::RenderTarget& target, sf::RenderStates states) const
 	target.draw(winText, states);
 	target.draw(*buttonRestart, states);
 }
-
-

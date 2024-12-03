@@ -7,7 +7,6 @@ GameCell::GameCell(size_t _cellLength, size_t _cellCorner, long long _num) : sq(
 	text_num.setCharacterSize(BasicValues::FIELD_cellFontSize);
 	if (num != 0)
 		text_num.setString(std::to_string(num));
-	//text_num.setString("2048");
 
 	text_num.setOrigin(text_num.getGlobalBounds().getSize() / 2.f + text_num.getLocalBounds().getPosition());
 	text_num.setPosition(sq.getGlobalBounds().getSize() / 2.f);
@@ -22,7 +21,6 @@ GameCell::~GameCell()
 void GameCell::setNum(long long num) {
 	this->num = num;
 	if (num != 0) {
-		// TODO:// Здесь вылетает ошибка иногда почему-то (text_num.setOrigin(text_num.getGlobalBounds().getSize() / 2.f + text_num.getLocalBounds().getPosition());)
 		text_num.setString(std::to_string(num));
 		text_num.setOrigin(text_num.getGlobalBounds().getSize() / 2.f + text_num.getLocalBounds().getPosition());
 		text_num.setPosition(sq.getGlobalBounds().getSize() / 2.f);

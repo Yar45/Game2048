@@ -136,6 +136,7 @@
     <None Include="assets\tuturu.ogg">
       <Filter>Файлы ресурсов</Filter>
     </None>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <Font Include="assets\RubikMonoOne-Regular.ttf">
@@ -147,6 +148,9 @@
       <Filter>Файлы ресурсов</Filter>
     </Image>
     <Image Include="assets\UI.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\2048.png">
       <Filter>Файлы ресурсов</Filter>
     </Image>
   </ItemGroup>

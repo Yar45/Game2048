@@ -1,20 +1,20 @@
 #pragma once
 
-#include <fstream>
-#include <chrono>
+#include <fstream>			// „тение/запись файла/потока
+#include <chrono>			// ¬рем€
 
-#include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
+#include <SFML/Graphics.hpp>// SFML библиотека дл€ графики
+#include <SFML/Audio.hpp>	// SFML библиотека дл€ аудио
 
-#include "RectField.h"
-#include "StartMenu.h"
-#include "EndMenu.h"
-#include "MenuCallable.h"
-#include "Enums.h"
-#include "Options.h"
-#include "Score.h"
-#include "PrettySet.h"
-#include "BasicValues.h"
+#include "RectField.h"		// ѕользовательский класс дл€ представлени€ игрового пол€ (сетки 4x4)
+#include "StartMenu.h"		// ѕользовательский класс дл€ представлени€ начального меню
+#include "EndMenu.h"		// ѕользовательский класс дл€ представлени€ меню итогов
+#include "MenuCallable.h"	// ѕользовательский класс дл€ обработки событий кнопок
+#include "Enums.h"			// —одержит перечислени€ (событи€ кнопки)
+#include "Options.h"		// ѕользовательский класс дл€ представлени€ меню настроек
+#include "Score.h"			// ѕользовательский класс дл€ представлени€ игрового счета
+#include "PrettySet.h"      // ѕользовательский класс дл€ графических ресурсов
+#include "BasicValues.h"    // ѕользовательский класс дл€ констант игры
 
 class Game
 {

@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game" Collapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <AssociationLine Name="spriteBackground" Type="sf::Sprite" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.875" Y="6.562" />
+        <Point X="14.875" Y="7.022" />
+        <Point X="15.167" Y="7.022" Type="JumpStart" />
+        <Point X="15.333" Y="7.022" Type="JumpEnd" />
+        <Point X="16.25" Y="7.022" />
+        <Point X="16.25" Y="6.57" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="menuCallable" Type="MenuCallable">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.166" Y="0.438" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="score" Type="Score" ManuallyRouted="true">
+      <Path>
+        <Point X="13.875" Y="6" />
+        <Point X="13.875" Y="3.25" />
+        <Point X="12.458" Y="3.25" Type="JumpStart" />
+        <Point X="12.292" Y="3.25" Type="JumpEnd" />
+        <Point X="11.083" Y="3.25" Type="JumpStart" />
+        <Point X="10.917" Y="3.25" Type="JumpEnd" />
+        <Point X="10.75" Y="3.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="window" Type="sf::RenderWindow" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.625" Y="6.562" />
+        <Point X="14.625" Y="7.152" />
+        <Point X="15.167" Y="7.152" Type="JumpStart" />
+        <Point X="15.333" Y="7.152" Type="JumpEnd" />
+        <Point X="16.25" Y="7.152" />
+        <Point X="16.25" Y="7.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AEoARAABgQAACAAAAQAIAAgEAEiAQBAIAAEIIAAAgAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="endMenu" />
+      <Field Name="menu" />
+      <Field Name="menuButton" />
+      <Field Name="menuCallable" />
+      <Field Name="options" />
+      <Field Name="rectField" />
+      <Field Name="restartButton" />
+      <Field Name="score" />
+      <Field Name="window" />
+      <Field Name="spriteBackground" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MenuCallable" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAgAAAAIAAAAACIAAAABAAEBAAhgCACAgQCAAAA=</HashCode>
+      <FileName>MenuCallable.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="musicList" />
+      <Field Name="soundList" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RoundedSquare" Collapsed="true">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAIAAAQgQAAAAAAAAAAAAAgAAAAAAACACCA=</HashCode>
+      <FileName>RoundedSquare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEKABAAAAIAAAAQAQAISIBAAQFAAAgiIAAAACAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndMenu" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <AssociationLine Name="menuCallable" Type="MenuCallable" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.156" Y="5.57" />
+        <Point X="13.156" Y="7.344" />
+        <Point X="13.688" Y="7.344" />
+        <Point X="13.688" Y="7.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EABABgCEAAEAAAACAgIACAAABEAAAAAIAAAADAAAAEA=</HashCode>
+      <FileName>EndMenu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="menuCallable" />
+      <Field Name="buttonRestart" />
+      <Field Name="currentScoreText" />
+      <Field Name="currentScoreTextConst" />
+      <Field Name="winText" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StartMenu" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <AssociationLine Name="buttonStart" Type="Button" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.125" Y="4.5" />
+        <Point X="15.125" Y="1.924" />
+        <Point X="12.75" Y="1.924" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="buttonOptions" Type="Button" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.953" Y="4.5" />
+        <Point X="14.953" Y="2.062" />
+        <Point X="12.75" Y="2.062" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="menuCallable" Type="MenuCallable" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.25" Y="5.32" />
+        <Point X="15.25" Y="8.031" />
+        <Point X="15" Y="8.031" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.553" Y="0.3" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AABAAgCEAAAAAAAAQAIACAAAAEAAAAAJgAAADAAgAAA=</HashCode>
+      <FileName>StartMenu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="buttonStart" />
+      <Field Name="buttonOptions" />
+      <Field Name="menuCallable" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Options" Collapsed="true">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgCEAAAAAAJCAAKECAgAAEgCAAEIAAAAjIBAAAA=</HashCode>
+      <FileName>Options.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="buttonSetSize400x300" />
+      <Field Name="buttonSetSize640x480" />
+      <Field Name="buttonSetSize800x600" />
+      <Field Name="volumeSlider" />
+      <Field Name="menuCallable" />
+      <Field Name="volumeText" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <AssociationLine Name="currentScoreSq" Type="RoundedSquare" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10" Y="3" />
+        <Point X="10" Y="0.938" />
+        <Point X="15.5" Y="0.938" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="maxScoreSq" Type="RoundedSquare" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.406" Y="3" />
+        <Point X="10.406" Y="1.188" />
+        <Point X="15.5" Y="1.188" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="currentScoreText" Type="sf::Text">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.423" Y="0.05" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="currentScoreTextConst" Type="sf::Text" FixedToPoint="true">
+      <Path>
+        <Point X="10.062" Y="3.82" />
+        <Point X="10.062" Y="4.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.287" Y="0.279" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="maxScoreText" Type="sf::Text">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.214" Y="0.487" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="maxScoreTextConst" Type="sf::Text">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.068" Y="0.716" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAIAAAAwAQAIAQAAAAAAACAgAAEAAAAIAABA=</HashCode>
+      <FileName>Score.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentScoreSq" />
+      <Field Name="currentScoreText" />
+      <Field Name="currentScoreTextConst" />
+      <Field Name="maxScoreSq" />
+      <Field Name="maxScoreText" />
+      <Field Name="maxScoreTextConst" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Slider" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <AssociationLine Name="menuCallable" Type="MenuCallable" FixedFromPoint="true">
+      <Path>
+        <Point X="11.75" Y="8.188" />
+        <Point X="13.5" Y="8.188" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAQAQAIAAEBAAEAAACAAAAAACAAABCA=</HashCode>
+      <FileName>Slider.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="knob" />
+      <Field Name="menuCallable" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameCell" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <AssociationLine Name="sq" Type="RoundedSquare" FixedToPoint="true">
+      <Path>
+        <Point X="16.25" Y="1.75" />
+        <Point X="16.25" Y="1.441" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAAACAAAAAAIAAUAAQAAAACAAAAAgAAAAQAA=</HashCode>
+      <FileName>GameCell.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sq" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="RectField" Collapsed="true">
+    <Position X="15.5" Y="3" Width="1.5" />
+    <AssociationLine Name="border" Type="RoundedSquare" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="17" Y="3.375" />
+        <Point X="17.219" Y="3.375" />
+        <Point X="17.219" Y="1.312" />
+        <Point X="17" Y="1.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>oAGAABBBKYACAAAAAAMYQCBAAAAAAIIAEECACEAABAA=</HashCode>
+      <FileName>RectField.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="field" />
+      <Field Name="border" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="sf::RenderWindow" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAIBAAAgAAAAAAASAAAAAEAAgAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Graphics\RenderWindow.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Sprite" Collapsed="true">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACBEAIAgACAAIAAAAAAAAAACAwAAAAgAIIAAA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Graphics\Sprite.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Text" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="sf::Text::Style" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Graphics\Text.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAQAhGJCAIQADABAIABEBEwBUAkkAoAAFSiABIQAA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Graphics\Text.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::CircleShape" Collapsed="true">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAKIAAAAAAAAEAAAAAAAAAAACIAAAAAAACA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Graphics\CircleShape.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Music" Collapsed="true">
+    <Position X="12.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAkAIAgAIAAAAAEAAACABAAQAAgCoAAIAAAIAIA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Audio\Music.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Sound" Collapsed="true">
+    <Position X="14.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAACAAAAAAAAgQEACAACgBAAABAAgQAAEIAA=</HashCode>
+      <FileName>C:\Libraries\CPP\SFML-2.6.1\include\SFML\Audio\Sound.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -43,13 +43,9 @@ void MenuCallable::resizeGame(int height, int width) {
 		BasicValues::WINDOW_previous_width = BasicValues::WINDOW_width;
 		BasicValues::WINDOW_previous_height = BasicValues::WINDOW_height;
 
-		//BasicValues::WINDOW_isFullscreen = false;
 		BasicValues::WINDOW_width = width;
 		BasicValues::WINDOW_height = height;
 	}
-	//else if (width == -1 && height == -1) {
-	//	BasicValues::WINDOW_isFullscreen = true;
-	//}
 	changeGameMode(RESIZE_GAME);
 	setMusic(2);
 }
@@ -93,10 +89,6 @@ void MenuCallable::setMode(ButtonAction _action) {
 		resizeGame(800, 600);
 		break;
 	}
-						//case RESIZE_FULLSCREEN: {
-						//	resizeGame(-1, -1);
-						//	break;
-						//}
 	default:
 		break;
 	}

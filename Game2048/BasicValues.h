@@ -7,9 +7,6 @@ public:
 
 	static inline unsigned int WINDOW_width = 480;
 	static inline unsigned int WINDOW_height = 640;
-	//static inline float WINDOW_scale = 1.f;
-	//static inline bool WINDOW_isFullscreen = false;
-
 
 	static inline unsigned int WINDOW_previous_width = 480;
 	static inline unsigned int WINDOW_previous_height = 640;

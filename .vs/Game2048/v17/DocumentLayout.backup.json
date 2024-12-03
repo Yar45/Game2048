@@ -3,112 +3,112 @@
   "WorkspaceRootPath": "C:\\Programming\\CPP\\Game2048\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RectField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RectField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RoundedSquare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\PrettySet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\PrettySet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\MenuCallable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\MenuCallable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RoundedSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\GameCell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\GameCell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\BasicValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\BasicValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game2048.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\PrettySet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\PrettySet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\BasicValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\BasicValues.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RectField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\GameCell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\MenuCallable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\GameCell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RectField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RoundedSquare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\RoundedSquare.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\EndMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\EndMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\StartMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\StartMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\MenuCallable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|C:\\Programming\\CPP\\Game2048\\Game2048\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A07FC9C1-C45F-49C6-86FA-BDFA8C7EB66D}|Game2048\\Game2048.vcxproj|solutionrelative:Game2048\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,278 +130,279 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "MenuCallable.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.cpp",
               "RelativeDocumentMoniker": "Game2048\\MenuCallable.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.cpp",
               "RelativeToolTip": "Game2048\\MenuCallable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:21:35.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game.cpp",
               "RelativeDocumentMoniker": "Game2048\\Game.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game.cpp",
               "RelativeToolTip": "Game2048\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACcAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAAuwPUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:19:14.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "StartMenu.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.cpp",
               "RelativeDocumentMoniker": "Game2048\\StartMenu.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.cpp",
               "RelativeToolTip": "Game2048\\StartMenu.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:18:18.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Slider.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.cpp",
               "RelativeDocumentMoniker": "Game2048\\Slider.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.cpp",
               "RelativeToolTip": "Game2048\\Slider.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:17:22.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Score.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Score.cpp",
               "RelativeDocumentMoniker": "Game2048\\Score.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Score.cpp",
               "RelativeToolTip": "Game2048\\Score.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:16:20.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Options.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Options.cpp",
               "RelativeDocumentMoniker": "Game2048\\Options.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Options.cpp",
               "RelativeToolTip": "Game2048\\Options.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T19:15:14.864Z"
+              "WhenOpened": "2024-11-30T19:15:14.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "EndMenu.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.cpp",
               "RelativeDocumentMoniker": "Game2048\\EndMenu.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.cpp",
               "RelativeToolTip": "Game2048\\EndMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:13:44.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 15,
               "Title": "Button.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Button.cpp",
               "RelativeDocumentMoniker": "Game2048\\Button.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Button.cpp",
               "RelativeToolTip": "Game2048\\Button.cpp",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:12:17.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "RoundedSquare.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.cpp",
               "RelativeDocumentMoniker": "Game2048\\RoundedSquare.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.cpp",
               "RelativeToolTip": "Game2048\\RoundedSquare.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:10:58.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "RoundedSquare.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.h",
               "RelativeDocumentMoniker": "Game2048\\RoundedSquare.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\RoundedSquare.h",
               "RelativeToolTip": "Game2048\\RoundedSquare.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-30T19:08:34.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "RectField.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.cpp",
               "RelativeDocumentMoniker": "Game2048\\RectField.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.cpp",
               "RelativeToolTip": "Game2048\\RectField.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-30T19:06:54.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T19:06:54.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "GameCell.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.cpp",
               "RelativeDocumentMoniker": "Game2048\\GameCell.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.cpp",
               "RelativeToolTip": "Game2048\\GameCell.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T19:04:12.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "EndMenu.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.h",
               "RelativeDocumentMoniker": "Game2048\\EndMenu.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\EndMenu.h",
               "RelativeToolTip": "Game2048\\EndMenu.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-29T14:44:58.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "PrettySet.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\PrettySet.h",
               "RelativeDocumentMoniker": "Game2048\\PrettySet.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\PrettySet.h",
               "RelativeToolTip": "Game2048\\PrettySet.h",
-              "ViewState": "AgIAADEAAAAAAAAAAAAvwD4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-26T21:48:05.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Slider.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.h",
               "RelativeDocumentMoniker": "Game2048\\Slider.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Slider.h",
               "RelativeToolTip": "Game2048\\Slider.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-25T12:20:03.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Options.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Options.h",
               "RelativeDocumentMoniker": "Game2048\\Options.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Options.h",
               "RelativeToolTip": "Game2048\\Options.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACgAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-25T12:07:21.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
               "Title": "Enums.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Enums.h",
               "RelativeDocumentMoniker": "Game2048\\Enums.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Enums.h",
               "RelativeToolTip": "Game2048\\Enums.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-25T09:48:14.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 1,
               "Title": "Colors.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Colors.h",
               "RelativeDocumentMoniker": "Game2048\\Colors.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Colors.h",
               "RelativeToolTip": "Game2048\\Colors.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-24T16:19:15.558Z"
+              "WhenOpened": "2024-11-24T16:19:15.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "StartMenu.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.h",
               "RelativeDocumentMoniker": "Game2048\\StartMenu.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\StartMenu.h",
               "RelativeToolTip": "Game2048\\StartMenu.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T17:45:08.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "RectField.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.h",
               "RelativeDocumentMoniker": "Game2048\\RectField.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\RectField.h",
               "RelativeToolTip": "Game2048\\RectField.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwEoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-11T20:37:39.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 11,
               "Title": "GameCell.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.h",
               "RelativeDocumentMoniker": "Game2048\\GameCell.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\GameCell.h",
               "RelativeToolTip": "Game2048\\GameCell.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-06T22:00:33.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game.h",
               "RelativeDocumentMoniker": "Game2048\\Game.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game.h",
               "RelativeToolTip": "Game2048\\Game.h",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-03T21:41:46.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Button.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Button.h",
               "RelativeDocumentMoniker": "Game2048\\Button.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Button.h",
               "RelativeToolTip": "Game2048\\Button.h",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-29T18:12:45.7Z"
             },
@@ -413,43 +414,44 @@
               "RelativeDocumentMoniker": "Game2048\\MenuCallable.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\MenuCallable.h",
               "RelativeToolTip": "Game2048\\MenuCallable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-24T19:47:08.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Game2048.cpp",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game2048.cpp",
               "RelativeDocumentMoniker": "Game2048\\Game2048.cpp",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Game2048.cpp",
               "RelativeToolTip": "Game2048\\Game2048.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-03T19:21:14.601Z"
+              "WhenOpened": "2024-10-03T19:21:14.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Score.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\Score.h",
               "RelativeDocumentMoniker": "Game2048\\Score.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\Score.h",
               "RelativeToolTip": "Game2048\\Score.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-26T17:40:10.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 4,
               "Title": "BasicValues.h",
               "DocumentMoniker": "C:\\Programming\\CPP\\Game2048\\Game2048\\BasicValues.h",
               "RelativeDocumentMoniker": "Game2048\\BasicValues.h",
               "ToolTip": "C:\\Programming\\CPP\\Game2048\\Game2048\\BasicValues.h",
               "RelativeToolTip": "Game2048\\BasicValues.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-30T12:13:42.371Z"
             }

@@ -1,19 +1,18 @@
 ﻿// Game2048.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp> // SFML библиотека для графики
 
-#include <iostream>
-#include <thread>
-#include <atomic>
-#include <shared_mutex>
+#include <iostream>         // Ввод/вывод
+#include <thread>           // Многопоточность
+#include <atomic>           // Многопоточность
+#include <shared_mutex>     // Мьютексы
 
-#include "PrettySet.h"
-#include "BasicValues.h"
+#include "PrettySet.h"      // Пользовательский класс для графических ресурсов
+#include "BasicValues.h"    // Пользовательский класс для констант игры
 #include "Game.h"
 
-#define BREAK(LABLE) goto LABLE
-
-#define GAME_ANTIALISING_LEVEL 8
-#define GAME_FPS_LIMIT 30
+#define BREAK(LABLE) goto LABLE     // Макрос для перехода по метке
+#define GAME_ANTIALISING_LEVEL 8    // Уровень сглаживания
+#define GAME_FPS_LIMIT 30           // Ограничение FPS
 
 Game* game;
 //std::shared_mutex mtx;
@@ -57,6 +56,13 @@ int launchWindow() {
 
     // deactivate context to change thread
     window.setActive(false);
+
+    sf::Image icon;
+    if (!icon.loadFromFile("assets/2048.png"))
+    {
+        return 0;
+    }
+    window.setIcon(128, 128, icon.getPixelsPtr());
 
     //lock0.lock();
     game = new Game(GAME_FPS_LIMIT, &window);
@@ -170,8 +176,12 @@ LABLE_CLOSE_WINDOW:
 int main() {
     srand(time(0));
 
-    PrettySet::loadFont();
-    PrettySet::loadTexture();
+    if (PrettySet::loadFont() == -1 || PrettySet::loadTexture() == -1) {
+        std::ofstream file("log.txt");
+        file << "Error loading font or texture";
+        file.close();
+        return 0;
+    }
 
     // if resize relaunch window
     int isResized = 0;

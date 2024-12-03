@@ -17,7 +17,12 @@ void Slider::setValue(float _value) {
 
 	knob.setPosition(width * value - knob.getRadius(), knobOffset);
 
-	menuCallable->setVolume(value);
+	if (value > 0.02f) {
+		menuCallable->setVolume(value);
+	} else {
+		menuCallable->setVolume(0);
+	}
+	
 }
 
 bool Slider::isPressed(float x, float y) {
@@ -26,7 +31,6 @@ bool Slider::isPressed(float x, float y) {
 		bool b = border.getGlobalBounds().contains(x, y);
 
 		//std::cout << "x: " << x << " y: " << y << " float: " << x / width << " pos: " << x - knob.getRadius() << std::endl;
-
 		if (b) {
 			if (sf::Mouse::isButtonPressed(sf::Mouse::Left)) {
 				setValue(x / width);

@@ -17,7 +17,6 @@ public:
 	Button* buttonSetSize400x300;
 	Button* buttonSetSize640x480;
 	Button* buttonSetSize800x600;
-	//Button* buttonSetFullScreen;
 
 	size_t buttonWidth;
 	size_t buttonHeight;

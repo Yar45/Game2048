@@ -31,13 +31,13 @@ Options::Options(sf::RenderWindow* _window, MenuCallable* _menuCallable, float c
 
 	buttonSetSize800x600 = new Button(PrettySet::font, PrettySet::texture, PrettySet::textureNormalPosition2, PrettySet::textureNormalPosition2, PrettySet::textureHoverPosition2, L"800 x 600", buttonWidth, buttonHeight / 2, buttonCorner, menuCallable, RESIZE_800x600);
 	buttonSetSize800x600->setPosition(leftOffset, buttonSetSize640x480->getPosition().y + buttonHeight / 2 + 20);
-
-	//buttonSetFullScreen = new Button(PrettySet::font, PrettySet::texture, PrettySet::textureNormalPosition2, PrettySet::textureNormalPosition2, PrettySet::textureHoverPosition2, L"Полный экран", buttonWidth, buttonHeight/2, buttonCorner, menuCallable, RESIZE_FULLSCREEN);
-	//buttonSetFullScreen->setPosition(leftOffset, buttonSetSize800x600->getPosition().y + buttonHeight/2 + 20);
 }
 
 Options::~Options() {
 	delete volumeSlider;
+	delete buttonSetSize400x300;
+	delete buttonSetSize640x480;
+	delete buttonSetSize800x600;
 }
 
 void Options::updateMousePosition(float x, float y) {
@@ -45,12 +45,10 @@ void Options::updateMousePosition(float x, float y) {
 	sf::Vector2f pos2 = buttonSetSize400x300->getPosition();
 	sf::Vector2f pos3 = buttonSetSize640x480->getPosition();
 	sf::Vector2f pos4 = buttonSetSize800x600->getPosition();
-	//sf::Vector2f pos5 = buttonSetFullScreen->getPosition();
 	bool b1 = volumeSlider->isPressed(x - pos1.x, y - pos1.y);
 	bool b2 = buttonSetSize400x300->isPressed(x - pos2.x, y - pos2.y);
 	bool b3 = buttonSetSize640x480->isPressed(x - pos3.x, y - pos3.y);
 	bool b4 = buttonSetSize800x600->isPressed(x - pos4.x, y - pos4.y);
-	//bool b5 = buttonSetFullScreen->isPressed(x - pos5.x, y - pos5.y);
 }
 
 void Options::draw(sf::RenderTarget& target, sf::RenderStates states) const
@@ -61,5 +59,4 @@ void Options::draw(sf::RenderTarget& target, sf::RenderStates states) const
 	target.draw(*buttonSetSize400x300, states);
 	target.draw(*buttonSetSize640x480, states);
 	target.draw(*buttonSetSize800x600, states);
-	//target.draw(*buttonSetFullScreen, states);
 }

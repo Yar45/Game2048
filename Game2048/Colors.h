@@ -36,6 +36,4 @@ public:
 	static inline const Color color_10 = { 188, 56, 43, OPACITY_CELL };
 	static inline const Color color_11 = { 124, 46, 51, OPACITY_CELL };
 	static inline const Color color_12 = { 73, 124, 83, OPACITY_CELL };
-	
-
 };

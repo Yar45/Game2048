@@ -41,22 +41,25 @@ public:
 	PrettySet() {}
 	~PrettySet() {}
 
-	void static loadTexture() {
+	int static loadTexture() {
 		texture = new sf::Texture;
 		if (!texture->loadFromFile(PATH_TEXTURE)) {
 			std::cout << "Texture error..." << std::endl;
+			return -1;
 		}
 
 		textureBackground1 = new sf::Texture;
 		if (!textureBackground1->loadFromFile(PATH_TEXTURE_BACKGROUND_1)) {
 			std::cout << "Texture 2 error..." << std::endl;
+			return -1;
 		}
 	}
 
-	void static loadFont() {
+	int static loadFont() {
 		font = new sf::Font;
 		if (!font->loadFromFile(PATH_FONT)) {
 			std::cout << "Font error..." << std::endl;
+			return -1;
 		}
 	}
 
